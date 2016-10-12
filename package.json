@@ -1,0 +1,19 @@
+{
+  "name": "bidder",
+  "version": "1.0.0",
+  "description": "Bidder website using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aripian/bidding.git"
+  },
+  "author": "Arif Zakaria <aripian.android@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aripian/bidding/issues"
+  },
+  "homepage": "https://github.com/aripian/bidding#readme"
+}
